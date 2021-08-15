@@ -1,6 +1,6 @@
 ## Magento 2 Bundle Pack
-
-![Bundle Pack extension for Magento 2](https://magepow.com/magento-2-bundle-product.html) allows users to setup and manage all bundle packs which helps customers buy more products in bundles.
+ 
+[Bundle Pack extension for Magento 2](https://magepow.com/magento-2-bundle-product.html) allows users to setup and manage all bundle packs which helps customers buy more products in bundles.
  
 ### Description
 
@@ -18,7 +18,7 @@ Moreover, this extension also makes your website more attractive and looks beaut
 
 Bundle Pack extension for Magento 2 will help your website in increasing customer experience by showing attractive bundles and discounts. It will get your customer's attractive and increase the sale performance. 
 
-[![Magento 2 Bundle Pack Pro](https://github.com/magepow/magento-2-bundle-pack/blob/main/media/product_tab.png)]((https://magepow.com/magento-2-bundle-product.html)
+[![Magento 2 Bundle Pack Pro](https://github.com/magepow/magento-2-bundle-pack/blob/main/media/product_tab.png)](https://magepow.com/magento-2-bundle-product.html)
 
 And improve customer experience by using convenient popup to select optional products
 
