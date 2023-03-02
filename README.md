@@ -1,3 +1,5 @@
+[<img src="https://github.com/magepow/themeforest/blob/master/shopify/shopify_affiliate.jpg" >](https://shopify.pxf.io/VyL446)
+
 ## Magento 2 Bundle Pack
  
 [Bundle Pack extension for Magento 2](https://magepow.com/magento-2-bundle-product.html) allows users to setup and manage all bundle packs which helps customers buy more products in bundles.
