@@ -2,7 +2,7 @@
 
 ## Magento 2 Bundle Pack
  
-[Bundle Pack extension for Magento 2](https://magepow.com/magento-2-bundle-product.html) allows users to setup and manage all bundle packs which helps customers buy more products in bundles.
+[Bundle Pack extension for Magento 2](https://magepow.net/magento-2-bundle-product.html) allows users to setup and manage all bundle packs which helps customers buy more products in bundles.
  
 ### Description
 
@@ -116,33 +116,61 @@ Go to the `admin panel -> Stores -> Configuration -> Magepow -> Bundle Pack`
 
   - Only if Product has Required Options - choose this option to show the popup only if a product has any required options to be configured.
   - Always - if set to 'Always', the popup will be displayed even if the product has only non-required options to choose from.
+
+ ### Buy it
+  [Buy it on Magepow](https://magepow.net/magento-2-bundle-product.html)
+  
 ## Donation
 
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/alopay)
 
-**[Our Magento 2 Extensions](https://magepow.com/magento-2-extensions.html)**
+**[Our Website](https://magepow.net)**
 
-* [Magento 2 Recent Sales Notification](https://magepow.com/magento-2-recent-order-notification.html)
+**[Our Magento 2 Extensions](https://magepow.net/extensions.html)**
 
-* [Magento 2 Categories Extension](https://magepow.com/magento-categories-extension.html)
+* [Magento 2 Recent Order Notification](https://magepow.net/magento-2-recent-order-notification.html)
 
-* [Magento 2 Sticky Cart](https://magepow.com/magento-sticky-cart.html)
+* [Magento 2 Categories Extension](https://magepow.net/magento-2-categories-extension.html)
 
-* [Magento 2 Ajax Contact](https://magepow.com/magento-ajax-contact-form.html)
+* [Magento 2 Sticky Cart](https://magepow.net/magento-sticky-add-to-cart.html)
 
-* [Magento 2 Lazy Load](https://magepow.com/magento-lazy-load.html)
+* [Magento 2 Lazy Load](https://magepow.net/magento-2-lazy-load-extension.html)
 
-* [Magento 2 Mutil Translate](https://magepow.com/magento-multi-translate.html)
+* [Magento 2 Lookbook Pin Products](https://magepow.net/lookbook-pin-products.html)
 
-* [Magento 2 Instagram Integration](https://magepow.com/magento-2-instagram.html)
+* [Magento 2 Ajax add to cart](https://magepow.net/magento-2-ajax-add-to-cart.html)
 
-* [Magento 2 Lookbook Pin Products](https://magepow.com/lookbook-pin-products.html)
+* [Magento 2 Speed Optimizer](https://magepow.net/magento2-speed-optimizer.html)
 
-* [Magento 2 Product Slider](https://magepow.com/magento-product-slider.html)
+* [Magento 2 Quick Edit](https://magepow.net/magento-2-quick-edit.html)
 
-* [Magento 2 Product Banner](https://magepow.com/magento-2-banner-slider.html)
+* [Magento 2 Product Zoom](https://magepow.net/magento-2-product-zoom.html)
+
+* [Magento 2 Layered Navigation Advanced](https://magepow.net/magento-2-layered-navigation-advanced.html)
+
+* [Magento 2 Product Tags](https://magepow.net/magento-2-product-tags.html)
+
+* [Special Promotion for Magento 2](https://magepow.net/magento-2-special-promotion-extension.html)
+
+* [Magento 2 Size Chart](https://magepow.net/magento-2-size-chart.html)
+
+* [Magento 2 Auto related products](https://magepow.net/magento-2-auto-related-products.html)
+
+* [Magento 2 Sitemap Exclusion](https://magepow.net/magento-2-sitemap-exclusion.html)
+
+* [Magento 2 Mega Menu](https://magepow.net/magento-2-mega-menu.html)
+
+* [Magento 2 Sitemap](https://magepow.net/magento-2-sitemap.html)
+
+* [Magento 2 Ajax Wishlist](https://magepow.net/magento-2-ajax-wishlist.html)
+
+* [Magento 2 PDF Invoice Frontend](https://magepow.net/magento-2-pdf-invoice-frontend.html)
+
+* [Magento 2 Bundle Pack](https://magepow.net/magento-2-bundle-product.html)
+
+* [Magento 2 Product Zoom 360](https://magepow.net/magento-2-product-zoom-360.html)
 
 **[Our Magento 2 services](https://magepow.com/magento-services.html)**
 
